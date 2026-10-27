@@ -20,7 +20,7 @@ void main(){
             
             child: Column(
               children:[ SizedBox(height: 25 ),
-              (Text("Welcome to the Student Registration System! Please log in to continue!", 
+              (Text("Welcome to the Student Registration System! Please log in to continue! ASAP", 
           style: TextStyle(fontSize: 15, 
                   fontWeight: FontWeight.normal,), 
                   textAlign: TextAlign.center,)),
